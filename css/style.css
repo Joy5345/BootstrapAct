@@ -9,3 +9,8 @@
 .imgsize{
     width: 30%;
 }
+
+.card {
+    align-items: center;
+    justify-content: space-between;
+}
