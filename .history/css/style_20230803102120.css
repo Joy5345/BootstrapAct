@@ -14,7 +14,6 @@
     padding-top: 20px;
     margin-left: 10px;
     margin-right: 10px;
-    align-items: center;
 }
 .card {
     align-items: center;
@@ -24,7 +23,6 @@
 
 .card-body{
     background-color: black
-    
 }
 
 .fa-laptop{
@@ -32,5 +30,4 @@
 }
 .card-text{
     color: aliceblue;
-    align-items: center;
 }

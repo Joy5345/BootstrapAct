@@ -1,0 +1,16 @@
+.navbar {
+    background-color: rgb(2, 117, 133);
+}
+
+.mybg {
+    background-color: rgb(2, 117, 133);
+}
+
+.imgsize{
+    width: 30%;
+}
+
+.card {
+    align-items: center;
+    justify-content: space-between;
+}

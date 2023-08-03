@@ -10,27 +10,19 @@
     width: 30%;
 }
 
-.container2{
-    padding-top: 20px;
-    margin-left: 10px;
-    margin-right: 10px;
-    align-items: center;
-}
 .card {
     align-items: center;
     justify-content: space-between;
-
 }
 
-.card-body{
+.card1 {
     background-color: black
-    
 }
 
-.fa-laptop{
-    align-items: center;
+.card2 {
+    background-color: black
 }
-.card-text{
-    color: aliceblue;
-    align-items: center;
+
+.card3 {
+    background-color: black
 }

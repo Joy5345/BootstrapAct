@@ -11,10 +11,7 @@
 }
 
 .container2{
-    padding-top: 20px;
-    margin-left: 10px;
-    margin-right: 10px;
-    align-items: center;
+    padding-top: 10px;
 }
 .card {
     align-items: center;
@@ -24,13 +21,8 @@
 
 .card-body{
     background-color: black
-    
 }
 
-.fa-laptop{
-    align-items: center;
-}
 .card-text{
     color: aliceblue;
-    align-items: center;
 }
